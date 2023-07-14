@@ -62,7 +62,7 @@
 # SOCIAL LINKS
 
 <p align="left">
-<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=2000&pause=1000&multiline=true&width=600&height=40&lines=📲+How+to+reach+me+💻+" alt="How to Reach Me" /> </p>
+<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=2000&pause=1000&multiline=true&width=600&height=40&lines=📲+HOW+TO+REACH+ME+💻+" alt="How to Reach Me" /> </p>
 
 [![Purushottam Anand's LinkedIn](https://img.shields.io/badge/-📲%20Connect%20on%20Linkedin-blue?style=for-the-badge&logo=linkedin)](https://openinapp.co/connect-on-linkedin-puru "Purushottam Anand's LinkedIn Profile")
 
