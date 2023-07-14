@@ -61,7 +61,7 @@
 
 # SOCIAL LINKS
 
-<p align="right">
+<p align="left">
 <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=2000&pause=1000&multiline=true&width=600&height=40&lines=📲+How+to+reach+me+💻+" alt="How to Reach Me" /> </p>
 
 [![Purushottam Anand's LinkedIn](https://img.shields.io/badge/-📲%20Connect%20on%20Linkedin-blue?style=for-the-badge&logo=linkedin)](https://openinapp.co/connect-on-linkedin-puru "Purushottam Anand's LinkedIn Profile")
@@ -71,11 +71,11 @@
 [![Purushottam Anand's GitHub](https://img.shields.io/badge/GitHub-❤️%20Sponsor%20me%20on%20GitHub-gr?style=for-the-badge&logo=github)](https://openinapp.co/githubpuru "Purushottam Anand's GitHub Page")
 
 - 💪 Feel free to connect with me on [LinkedIn](https://openinapp.co/linkedinpuru "Purushottam Anand on Linkedin") and never miss out on these valuable resources! 🚀
-- ### Happy coding! 🚀💻
+- Happy coding! 🚀💻
 
 # LICENSE
-### My [Bulb On Off repository](https://github.com/creativepuru/Bulb-On-Off) is licensed under the [Creative Commons Zero v1.0 Universal](https://github.com/creativepuru/Bulb-On-Off/blob/master/LICENSE.txt) License. 
-### See [LICENSE](https://github.com/creativepuru/BlinkLED/blob/main/LICENSE) for more information.
+- My [Bulb On Off repository](https://github.com/creativepuru/Bulb-On-Off) is licensed under the [Creative Commons Zero v1.0 Universal](https://github.com/creativepuru/Bulb-On-Off/blob/master/LICENSE.txt) License. 
+- See [LICENSE](https://github.com/creativepuru/BlinkLED/blob/main/LICENSE) for more information.
 
 ## SUPPORT MY WORK
 
