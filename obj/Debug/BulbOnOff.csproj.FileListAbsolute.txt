@@ -1,0 +1,11 @@
+D:\COURSES\TISHITU\CSharpPrograms\BulbOnOff\bin\Debug\BulbOnOff.exe.config
+D:\COURSES\TISHITU\CSharpPrograms\BulbOnOff\bin\Debug\BulbOnOff.exe
+D:\COURSES\TISHITU\CSharpPrograms\BulbOnOff\bin\Debug\BulbOnOff.pdb
+D:\COURSES\TISHITU\CSharpPrograms\BulbOnOff\obj\Debug\BulbOnOff.csproj.AssemblyReference.cache
+D:\COURSES\TISHITU\CSharpPrograms\BulbOnOff\obj\Debug\BulbOnOff.csproj.SuggestedBindingRedirects.cache
+D:\COURSES\TISHITU\CSharpPrograms\BulbOnOff\obj\Debug\BulbOnOff.BulbOnOff.resources
+D:\COURSES\TISHITU\CSharpPrograms\BulbOnOff\obj\Debug\BulbOnOff.Properties.Resources.resources
+D:\COURSES\TISHITU\CSharpPrograms\BulbOnOff\obj\Debug\BulbOnOff.csproj.GenerateResource.cache
+D:\COURSES\TISHITU\CSharpPrograms\BulbOnOff\obj\Debug\BulbOnOff.csproj.CoreCompileInputs.cache
+D:\COURSES\TISHITU\CSharpPrograms\BulbOnOff\obj\Debug\BulbOnOff.exe
+D:\COURSES\TISHITU\CSharpPrograms\BulbOnOff\obj\Debug\BulbOnOff.pdb
